@@ -15,5 +15,4 @@ fun main(){
         println("Scored a C")
     }
 
-
 }
